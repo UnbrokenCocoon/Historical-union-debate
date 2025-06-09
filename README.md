@@ -1,6 +1,7 @@
 # 🗨️ Historical Dialogue: Trade Unionism Then and Now
 
 This fictional dialogue stages an imagined conversation between two trade union organisers — one from the early 20th century, and one from the early 21st century — to explore evolving views on welfare, sickness benefits, and union organising. All responses are grounded in archival and contemporary material.
+[**Hugging Faces Space**](https://huggingface.co/spaces/ovrelord/union-debate-sim)
 
 ---
 
@@ -48,7 +49,7 @@ This dialogue was generated using a **Retrieval-Augmented Generation (RAG)** pip
 - Role-specific system prompts simulating different eras of union discourse
 
 💻 You can view or run the full pipeline here:  
-[**Colab Notebook**](https://colab.research.google.com/drive/1EUjPWVHx6CHoBJAlvWKsZGKUI-p1jrwa?usp=sharing)
+[**Colab Notebook**]([https://colab.research.google.com/drive/1EUjPWVHx6CHoBJAlvWKsZGKUI-p1jrwa?usp=sharing](https://colab.research.google.com/drive/1yUuaEcGxiyoZBmLrVqhpctlxZN7bJsbc?usp=sharing))
 
 ---
 
