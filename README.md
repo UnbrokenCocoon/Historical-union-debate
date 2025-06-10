@@ -49,7 +49,8 @@ This dialogue was generated using a **Retrieval-Augmented Generation (RAG)** pip
 - Role-specific system prompts simulating different eras of union discourse
 
 💻 You can view or run the full pipeline here:  
-[**Colab Notebook**]([https://colab.research.google.com/drive/1EUjPWVHx6CHoBJAlvWKsZGKUI-p1jrwa?usp=sharing])
+[**Colab Notebook**](https://colab.research.google.com/drive/1EUjPWVHx6CHoBJAlvWKsZGKUI-p1jrwa?usp=sharing)
+
 
 ---
 
