@@ -62,3 +62,6 @@ This dialogue was generated using a **Retrieval-Augmented Generation (RAG)** pip
 
 This project aims to reflect how language, priorities, and strategies have evolved in union contexts — without revealing internal or sensitive institutional affiliations.
 
+### Blog post
+(https://creating-synethetic-dialogues.hashnode.dev/creating-synthetic-dialogues-using-rag-and-gemini)
+
